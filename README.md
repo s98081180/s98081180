@@ -1,6 +1,6 @@
 ### Hi there 👋
 #銘傳大學資訊管理學系
-##李耀宗
+#李耀宗 Pronouns
 <!--
 **s98081180/s98081180** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
